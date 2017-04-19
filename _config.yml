@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Eddie Cheung
+tagline:          'Math Enthusiast'
+description:      'I like math, machine learning, and coding.'
+baseurl:          /
+author:
+  name:           'Eddie Cheung'
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/edche
+
+blog:             https://edcheblog.wordpress.com
+
