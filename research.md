@@ -4,7 +4,7 @@ title: Research
 ---
 
 ## Papers
-E. Cheung, Y. Li, *Projection Free Rank-Drop Steps*. *in submission*. [\[paper\]](https://arxiv.org/abs/1704.04285)[\[code\]](https://github.com/edche/rdfw)
+E. Cheung, Y. Li, *Projection Free Rank-Drop Steps*. IJCAI 2017. [\[paper\]](https://arxiv.org/abs/1704.04285)[\[code\]](https://github.com/edche/rdfw)
 
 E. Cheung, Y. Li, *Self-Training with Adaptive Regularization for S3VM*. IJCNN 2017. [\[paper\]](https://github.com/edche/star_svm)[\[code\]](https://github.com/edche/star_svm)
 
